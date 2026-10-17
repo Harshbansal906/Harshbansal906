@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Harsh Bansal 👋
 
-<!--
-**Harshbansal906/Harshbansal906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI) Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building projects, solving problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Practicing Data Structures & Algorithms
+- 🌐 Exploring Web Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building and improving real-world projects
+
+### 🛠️ Technologies I'm Learning
+
+- **Languages:** Java, Python
+- **Web:** HTML, CSS, JavaScript
+- **Interests:** DSA, AI/ML, Software Development
+
+### 📌 Featured Projects
+
+- **VoiceGuard AI** — Voice analysis and AI project
+- **Readora** — Article-sharing web application
+
+### 🎯 Current Goals
+
+- Strengthen my DSA fundamentals
+- Build practical software projects
+- Prepare for software development internships
+
+### 🤝 Connect With Me
+
+- GitHub: [@Harshbansal906](https://github.com/Harshbansal906)
