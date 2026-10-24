@@ -28,4 +28,4 @@ I'm a Computer Science student passionate about building projects, solving probl
 
 ### 🤝 Connect With Me
 
-- GitHub: [@Harshbansal906](https://github.com/Harshbansal906)
+- Linkedin - https://www.linkedin.com/in/harsh-bansal-5b1bb836b?utm_source=share_via&utm_content=profile&utm_medium=member_android
